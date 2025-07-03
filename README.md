@@ -3,6 +3,10 @@
 
 A React-based dashboard using Ant Design that allows users to upload Excel files and visualize budget vs. actual spending.
 
+## XLSX 
+ - Add new column (Id) for perform Update operation on rows
+ - use file which i have provided in public folder 
+
 ## Features
 
 - Excel file upload (.xlsx/.xls)
