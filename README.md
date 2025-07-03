@@ -26,7 +26,7 @@ A React-based dashboard using Ant Design that allows users to upload Excel files
 1. Clone repo & install:
    ```bash
    git clone https://github.com/dobariyaumangi/react_practical.git
-   cd budget-dashboard
+   cd react_practical
    yarn install
    yarn run dev
    ```
