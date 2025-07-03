@@ -1,0 +1,38 @@
+:root {
+  width: 95%;
+  margin:0 auto;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  /* place-items: center;
+  min-width: 320px;
+  min-height: 100vh; */
+}
+.over-budget-row {
+  background-color: #ffe6e6 !important; /* Soft red */
+}
+.dashboard-container {
+  padding: 24px;
+  background-color: #f5f7fa;
+  min-height: 100vh;
+  color: #333;
+}
+
+.dashboard-card {
+  background-color: #eeedf6 !important;
+  border: 1px solid #f0f0f0 !important;
+  border-radius: 10px !important;
+  color: #333;
+}
+
+.info-card .label {
+  font-size: 14px;
+  color: #888;
+  margin-bottom: 8px;
+}
+
+.ant-table-wrapper .ant-table-thead >tr>th {
+  background:'#e8e1f4' !important
+}
